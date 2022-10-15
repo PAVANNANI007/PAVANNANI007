@@ -1,4 +1,12 @@
-### Hi there 👋
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCn103sVO2aq474QnixVXn-Q) 
+<p>
+  <h1 align="center"><b>Hello there, I'm DODIYAM PAVAN KUMAR 👋</b></h1>
+</p>
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=Coding-Decoded) -->
+
+### :zap: MY Github Stats
 
 <!--
 **PAVANNANI007/PAVANNANI007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +24,6 @@ Here are some ideas to get you started:
 -->
 [![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANNANI007&count_private=true&show_icons=true&theme=radical&layout=compact)]()
 [![github profile](https://github-readme-stats.vercel.app/api?username=PAVANNANI007&show_icons=true&include_all_commits=true&theme=radical)]()
+
+
+
