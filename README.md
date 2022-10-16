@@ -2,7 +2,7 @@
 <p>
   <h1 align="center"><b>Hello there, I'm DODIYAM PAVAN KUMAR 👋</b></h1>
   <h4 align="center"><b>Find more about me</b></h4>
-  <a align="center"><b>https://pavannani007.github.io/</b></a>
+ https://pavannani007.github.io/
 </p>
 
 ![](https://komarev.com/ghpvc/?username=PAVANNANI007)
