@@ -3,8 +3,7 @@
   <h1 align="center"><b>Hello there, I'm DODIYAM PAVAN KUMAR 👋</b></h1>
 </p>
 
-
-<!-- ![](https://komarev.com/ghpvc/?username=Coding-Decoded) -->
+![](https://komarev.com/ghpvc/?username=PAVANNANI007)
 
 ### :zap: MY Github Stats
 
